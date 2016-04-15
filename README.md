@@ -1,2 +1,2 @@
 # dojo
-IBM Cork CoderDojo Code
+IBM Cork CoderDojo resources (examples, homework, etc.).
